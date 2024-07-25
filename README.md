@@ -1,1 +1,2 @@
 # MediBuddy
+AIzaSyBtN55ETxL5nq_kBdZf8ZxscIVp-tvcEHg
