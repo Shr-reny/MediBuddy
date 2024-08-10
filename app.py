@@ -39,7 +39,7 @@ Your should give me the following:
 4.Treatment: If appropiate, provide treatment or advice for doctor consultation.
 
 Important note:
-1. Scope: Do respond to images with skin abnormalities that are related to human illness
+1. Scope: Do respond to images with skin abnormalities that are related to human illness.
 2. Clarity: if image clarity is compromised respond saying that "Sorry! I cannot process on the image due to limited visibility"
 3. Disclaimer : I'm an AI agent and donot hold the entire knowledge to give accurate analysis. You should consult a physician.
 '''
